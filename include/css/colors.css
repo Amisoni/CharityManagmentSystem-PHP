@@ -1,0 +1,179 @@
+ /*Theme Color Default  #11c0b4 = rgba(17, 192, 180, */
+
+/* TEXT COLOR */
+.pagination>li>a,
+.ulockd-title-icon,
+.ulockd-gallery-slider .owl-prev,
+.ulockd-gallery-slider .owl-next,
+.team-icon a,
+.twitter.style2 ul li a,
+.text-thm2 {
+  color: #11c0b4 !important;
+}
+
+/* TEXT HOVER COLOR */
+.ulockd-media-box .media:hover .media-heading,
+.ulockd-sitemap > li a:hover,
+.ulockd-shop-item:hover h3,
+.ulockd-mssn-col:hover .missn-details h3,
+.fservice-box:hover h3,
+.ulockd-bp-btn:hover,
+.ulockd-bp-details.style2:hover .ulockd-bp-title h3,
+.fstory:hover .media-heading {
+	color: #11c0b4;
+}
+nav.navbar.bootsnav.light-red ul.nav > li > a.active,
+nav.navbar.bootsnav.light-red ul.nav > li > a:hover,
+nav.navbar.bootsnav.light-red li.dropdown ul.dropdown-menu > li > a:hover {
+	color: #11c0b4;
+}
+
+/* BACKGROUND COLOR */
+nav.navbar.bootsnav.ulockd-menu-style-two li.dropdown ul.dropdown-menu,
+.attr-nav > ul > li > a span.badge,
+.ulockd-home-two,
+.missn-icon,
+.ulockd-ffact-two .ulockd-icon-let,
+.ulockd-copy-right,
+.ulockd-l2-copy-right,
+.price-tag,
+.ulocked-pricing-tag,
+.contact-details .contact-place > li,
+.ulockd-product-details a.btn.hvr-bounce-to-right:before,
+.ulockd-all-service a.active,
+nav.navbar.bootsnav.ulockd-menu-style-two #navbar-menu,
+.navbar-sticky.navbar-scrollspy.ulockd-menu-style-two,
+.ulockd-faq-content .panel-default > .panel-heading,
+.amount-box input[type="radio"]:checked+label,
+.pagination>.active>a,
+.ulockd-bgthm {
+	background-color: #0000ff
+            /*!important;*/
+}
+.ui-datepicker-header.ui-widget-header.ui-helper-clearfix.ui-corner-all, 
+.ui-timepicker-list .ui-timepicker-selected:hover, 
+.ui-timepicker-list li:hover, 
+li.ui-timepicker-selected {
+	background-color: #11c0b4;
+}
+
+/* HOVER BACKGROUND COLOR */
+.social-linked a:hover,
+.social-linked-two a:hover,
+.form-group.ulockd-contact-btn:hover button,
+.ulockd-tag-list-details a:hover,
+.srvc-col-two:hover,
+.ulockd-tag-list-details li:hover a,
+.ulockd-gallery-slider .owl-prev:hover, 
+.ulockd-gallery-slider .owl-next:hover,
+.team-icon a:hover,
+.partner-slider .owl-dot.active span, 
+.partner-slider .owl-dot:hover span,
+.partner-slider .owl-dot:focus span,
+.ulockd-footer-font-icon a:hover,
+.nav.fcauses-tab>li>a:focus,
+.nav.fcauses-tab>li>a:hover,
+.fcauses-tab>li.active>a:before,
+.fcauses-tab>li.active>a,
+.fcauses-tab>li.active>a:focus, 
+.fcauses-tab>li.active>a:hover,
+.ulockd-main-title:before,
+.title-bottom:before {
+	background-color: #11c0b4;
+}
+.main-slider2 .owl-next:hover,
+.main-slider2 .owl-prev:hover,
+.blog-post-img-slider .owl-prev:hover,
+.blog-post-img-slider .owl-next:hover,
+.ulockd-bpost-slider .owl-controls .owl-prev:hover,
+.ulockd-bpost-slider .owl-controls .owl-next:hover {
+	background-color: #11c0b4;
+}
+.masonry-filter a.active,
+.masonry-filter a:active,
+.masonry-filter a:hover,
+.masonry-filter a:focus {
+	background-color: #11c0b4;
+}
+
+/* BACKGROUND COLOR TRANSPARENT */
+.ulockd-ap-service-two::before,
+.ulockd-coming-soon::before,
+.ulockd-uconctruction::before {
+	background-color: rgba(17, 192, 180, .98);
+}
+.ulockd-frst-divider.style1::before,
+.gallery-thumb .overlayer {
+	background-color: rgba(17, 192, 180, .75);
+}
+.ulockd-footer-flickr li .thumb .overlay,
+.ulockd-coming-soon::before,
+.ulockd-uconctruction::before {
+	background-color: rgba(17, 192, 180, .7);
+}
+.fservice-box .db-overlayer {
+	background-color: rgba(17, 192, 180, .65);
+}
+.gallery-overlay,
+.team-overlay,
+.ulockd-tm-overlay {
+	background-color: rgba(17, 192, 180, .6);
+}
+.ulockd-frst-divider::before,
+.gallery-thumb .layer,
+.gallery-thumb-l2 .layer {
+	background-color: rgba(17, 192, 180, 0.9);
+}
+
+/* BUTTON TEMPALTE COLOR */
+.ulockd-btn-thm2 {
+  background-color: #11c0b4;
+  border-color: #11c0b4;
+}
+.ulockd-btn-styledark:hover,
+.ulockd-btn-styledark:active,
+.ulockd-btn-styledark:focus {
+  background-color: #11c0b4;
+}
+.ulockd-btn-white:hover,
+.ulockd-btn-white:active,
+.ulockd-btn-white:focus {
+  background-color: #11c0b4 !important;
+  border-color: #11c0b4 !important;
+}
+.ulockd-btn-gray:hover,
+.ulockd-btn-gray:active,
+.ulockd-btn-gray:focus {
+  background-color: #11c0b4 !important;
+  border-color: #11c0b4 !important;
+}
+
+/* BORDER TEMPALTE COLOR */
+.ulockd-mssn-col {
+    border: 1px solid #11c0b4;	
+}
+nav.navbar li.dropdown ul.dropdown-menu {
+	border-top: 5px solid #11c0b4
+}
+.header-nav .main-header-nav.navbar-scrolltofixed {
+    border-top: 1px solid #11c0b4;
+}
+.ulockd-bb-dashed {
+	border-bottom: 1px dashed #11c0b4;
+}
+.main-slider2 .owl-next, .main-slider2 .owl-prev, .ulockd-contact-form .ulockd-form-fg {
+    border: 2px dashed #11c0b4;
+}
+.pagination>.active>a,
+.amount-box input[type="radio"]:checked+label,
+.fcauses-tab>li.active>a,
+.fcauses-tab>li.active>a:focus, 
+.fcauses-tab>li.active>a:hover,
+.ulockd-all-service a.active {
+	border-color:  #11c0b4;
+}
+/* Hover Border COlor */
+.team-icon a:hover,
+.team-details .team-icon a {	
+    border: 1px solid #11c0b4;
+}

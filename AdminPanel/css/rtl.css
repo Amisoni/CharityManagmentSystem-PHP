@@ -1,0 +1,67 @@
+
+/* (min-width:992px) (max-width:1199px) */
+@media only screen and (max-width:1199px){
+}
+/* (min-width:768px) (max-width:991px) */
+@media only screen and (max-width:991px){
+  /* Home slider rtl */ 
+}
+/* (min-width:480px) (max-width:767px) */
+@media only screen and (max-width:767px){
+  .ulockd-contact-info .ulockd-icon {float: none !important;}
+  .ulockd-ohour-info .ulockd-icon {float: none !important;}
+  /* home slider start */
+  /* Service icon */
+  .ulockd-mssn-col .missn-icon {left: 0 !important;}
+}
+@media only screen and (max-width:630px){
+
+}
+/* (min-width:361px) (max-width:479px) */
+@media only screen and (max-width:479px){
+  /* Main Slider Start*/
+  .missn-details { padding-left: 0 !important; padding-right: 18% !important;}
+}
+@media only screen and (max-width:400px){
+  /* Main Slider Start*/
+  .missn-details { padding-left: 0 !important; padding-right: 21% !important;}
+}
+@media only screen and (max-width:320px){
+  .missn-details { padding-left: 0 !important; padding-right: 25% !important;}  
+}
+
+/* Home Slider One */
+  .ulockd-ohour-info .ulockd-icon {
+    margin-left: 16px;
+    margin-right: 0;
+  }
+  .ulockd-faq-content .panel .panel-title a i, .ulockd-faq-box .panel .panel-title a i {
+    margin-left: 15px;
+    margin-right: -15px;
+  }
+  .testi-thumb {
+    margin-left: 12px;
+    margin-right: 0;
+  }
+  .testi-details {
+    padding-left: 0;
+    padding-right: 28%;
+  }
+  .subscribe button {
+    margin-right: -5px;
+  }
+  .bp-details.one .bp-date {
+    margin-left: 10px;
+    margin-right: 0;
+  }
+  .title-bottom:before {
+    right: 0;
+  }
+  /* Footer navigation */
+  .ulockd-footer-qlink .list-unstyled li span{
+    padding-left: 10px;
+  }
+  .ulockd-footer-qlink .list-unstyled li a:hover {
+    padding-left: 0;
+    padding-right: 10px;
+  }
